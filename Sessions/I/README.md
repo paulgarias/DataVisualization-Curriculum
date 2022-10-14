@@ -40,9 +40,22 @@ Welcome students to the class. Give the first introductory slides to the present
 # Part 1. Excel
 
 <details><summary><strong>1.1 Instructor: Excel Charts</strong></summary>
+
 * This activity will provide students with the ability to create basic charts from clean data
 * Begin with a description of bar charts using pastry data
 
 
+
+</details>
+
+---
+# Part 2. Python/Pandas
+
+
+<details><summary><strong>2.1 Instructor: Python Pandas</strong></summary>
+
+* This activity will provide students with the ability to create basic charts from clean data
+* Begin with a description of bar charts using pastry data
+* [This link](https://matplotlib.org/stable/tutorials/introductory/customizing.html) will be usefull too.
 
 </details>
